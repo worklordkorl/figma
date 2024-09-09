@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.obshe {
+    width: 1500px;
+    height: 4000px;
+    flex-wrap: wrap;
+    background: #F5F5F5;
+}
+
+.wrapper {
+    max-width: 100%;
+    min-height: 100%;
+    background: #F5F5F5;
+    color: #000000;
+}
+
+header {
+    margin-left: 100px;
+}
+
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 48px;
+}
+nav ul {
+    position: relative;
+    left: 268px;
+    bottom: 20px;
+}
+
+nav ul a {
+    text-decoration: none;
+    list-style: none;
+    color: #000000;
+}
+
+.logo {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    width: 118px;
+    font-size: 24px;
+    background: #F5F5F5;
+    color: #000000;
+    gap: 148px;
+}
+.logo__2 {
+    text-decoration: none;
+    list-style: none;
+    color: #000000;
+    background: #F5F5F5;
+    border-radius: 4px;
+    padding: 7px,12px,7px,20px;
+    gap: 16px;
+    font-size: 12px;
+}
+.logo__2 {
+    position: relative;
+    left: 750px;
+    bottom: 46px;
+}
+.home-img {
+    gap: 30px;
+}
+.home-img {
+    position: relative;
+    left: 930px;
+    bottom: 70px;
+}
+.home-fashion {
+    width: 217px;
+    height: 344px;
+    top: 182px;
+    left: 135px;
+}
+
+.img-1 {
+    position: relative;
+    top: 9px;
+}
+.img__2 {
+    position: relative;
+    top: 9px;
+}
+ol li {
+    text-decoration: none;
+    list-style: none;
+    gap: 16px;
+}
+
+.ero {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.ero {
+    position: relative;
+    left: 30px;
+    top: 50px;
+}
+
+.ero__img {
+    position: relative;
+    left: 920px;
+}
+
+.move  {
+    border-radius: 4px;
+    border: 1px solid black;
+    padding: 16px,48px,16px,48px;
+    gap: 10px;
+}
+
+.weshlist {
+    display: flex;
+    margin-top: 100px;
+    gap: 30px;
+}
+
+#money {
+    position: relative;
+    top: 100px;
+}
+
+.exprins {
+    display: flex;
+}
+
+.card-section h3 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+
+.lorem {
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    gap: 860px;
+}
+
+.lorem {
+    position: relative;
+    bottom: 400px;
+}

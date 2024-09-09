@@ -1,0 +1,357 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.obshe {
+    width: 1500px;
+    height: 4000px;
+    flex-wrap: wrap;
+    background: #F5F5F5;
+}
+
+.wrapper {
+    max-width: 100%;
+    min-height: 100%;
+    background: #F5F5F5;
+    color: #000000;
+}
+
+header {
+    margin-left: 100px;
+}
+
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 48px;
+}
+nav ul {
+    position: relative;
+    left: 268px;
+    bottom: 20px;
+}
+
+nav ul a {
+    text-decoration: none;
+    list-style: none;
+    color: #000000;
+}
+
+.logo {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    width: 118px;
+    font-size: 24px;
+    background: #F5F5F5;
+    color: #000000;
+    gap: 148px;
+}
+.logo__2 {
+    text-decoration: none;
+    list-style: none;
+    color: #000000;
+    background: #F5F5F5;
+    border-radius: 4px;
+    padding: 7px,12px,7px,20px;
+    gap: 16px;
+    font-size: 12px;
+}
+.logo__2 {
+    position: relative;
+    left: 750px;
+    bottom: 46px;
+}
+.home-img {
+    gap: 30px;
+}
+.home-img {
+    position: relative;
+    left: 930px;
+    bottom: 70px;
+}
+.home-fashion {
+    width: 217px;
+    height: 344px;
+    top: 182px;
+    left: 135px;
+}
+
+.img-1 {
+    position: relative;
+    top: 9px;
+}
+.img__2 {
+    position: relative;
+    top: 9px;
+}
+ol li {
+    text-decoration: none;
+    list-style: none;
+    gap: 16px;
+}
+.header-img {
+    position: relative;
+    left: 200px;
+    bottom: 350px;
+}
+.todays {
+    width: 100%;
+    min-height: 100dvh;
+    margin-left: 100px;
+}
+.todays {
+    position: relative;
+    bottom: 3400px;
+}
+.todays h1 {
+    display: flex;
+    gap: 48px;
+}
+
+.div {
+    display: flex;
+    gap: 38px;
+}
+.koko {
+    position: relative;
+    bottom: 25px;
+}
+.hoho {
+    position: relative;
+    left: 300px;
+    bottom: 20px;
+}
+.server {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: auto;
+    gap: 16px;
+}
+.card .photo {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    font-size: 16px;
+    padding: 20px 10px;
+    background: #F5F5F5;
+    border: 1px solid #F5F5F5;
+    gap: 20px;
+}
+
+
+.card:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px ;
+    transition: 1s;
+}
+
+.sevtion {
+    width: 234px;
+    height: 56px;
+    top: 1219;
+    left: 603;
+    border-radius: 4px;
+    padding: 16px,48px,16px,48px ;
+    gap: 10px;
+}
+.sevtion {
+    position: relative;
+    bottom: 3200px;
+}
+
+#photo {
+    position: relative;
+    left: 500px;
+    bottom: 250px;
+}
+.hr {
+    position: relative;
+    width: 1000px;
+    left: 150px;
+    bottom: 200px;
+}
+
+.wort {
+    position: relative;
+    left: 100px;
+    bottom: 3330px;
+}
+.vort {
+    position: relative;
+    left: 100px;
+    bottom: 3330px;
+}
+#kort {
+    position: relative;
+    left: 1150px;
+    bottom: 3500px;
+}
+#xr {
+    position: relative;
+    width: 1000px;
+    left: 150px;
+    bottom: 3250px;
+}
+.cort {
+    position: relative;
+    bottom: 3300px;
+}
+.cort {
+    position: relative;
+}
+
+.month {
+    position: relative;
+    left: 100px;
+    bottom: 3170px;
+}
+.loli {
+    position: relative;
+    left: 980px;
+    bottom: 50px;
+}
+.txis {
+    position: relative;
+    bottom: 3000px;
+}
+.kover {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: auto;
+    gap: 16px;
+}
+.kover {
+    position: relative;
+    left: 100px;
+    bottom: 3200px;
+}
+.categories {
+    position: relative;
+    left: 70px;
+    bottom: 3100px;
+}
+#explore {
+    position: relative;
+    left: 90px;
+    bottom: 3000px;
+}
+#explore .omg {
+    position: relative;
+    left: 1000px;
+    bottom: 40px;
+}
+.color {
+    width: 270px;
+    background: whitesmoke;
+    height: 300px;
+    padding: 10px;
+}
+.kolor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background: whitesmoke;
+}
+
+.koler p {
+    position: relative;
+    left: 20px;
+}
+
+.color h3 {
+    max-width: 259px;
+    font-size: 16px;
+}
+.color h3 {
+    position: relative;
+    left: 20px;
+}
+.color .photo {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 35px 44px;
+    background: #F5F5F5;
+}
+.gou {
+    display: flex;
+}
+
+#rasm {
+    position: relative;
+    right: 46px;
+    top: 50px;
+}
+
+#imigs {
+    position: relative;
+    left: 240px;
+    bottom: 250px;
+}
+.perl {
+    position: relative;
+    left: 20px;
+}
+
+#ciki {
+    position: relative;
+    left: 550px;
+    bottom: 550px;
+}
+
+#kola {
+    position: relative;
+    left: 850px;
+    bottom: 850px;
+}
+
+#fanta {
+    position: relative;
+    bottom: 800px;
+    right: 30px;
+}
+
+#pepsi {
+    position: relative;
+    left: 280px;
+    bottom: 1100px;
+}
+
+#adrinalin {
+    position: relative;
+    left: 590px;
+    bottom: 1400px;
+}
+
+#mikko {
+    position: relative;
+    left: 900px;
+    bottom: 1700px;
+}
+
+.hasg {
+    position: relative;
+    left: 20px;
+}
+
+.sektion {
+    width: 1200px;
+}
+
+.sektion {
+    position: relative;
+    left: 70px;
+    bottom: 4500px;
+}
+
+.color:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px ;
+    transition: 1s;
+}
